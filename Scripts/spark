@@ -1,0 +1,3 @@
+#!c:\users\bruno\desktop\pythonshid\spark\studying-spark\scripts\python.exe
+from spark import spark_admin
+spark_admin.main()
